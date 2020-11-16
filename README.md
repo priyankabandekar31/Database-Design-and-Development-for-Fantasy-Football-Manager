@@ -1,6 +1,6 @@
 <br />
  <p align="center">
-    <img src="https://github.com/priyankabandekar31/Database-Design-and-Development-for-Fantasy-Football-Manager/blob/main/Images/DataBaseDesign.PNG" width="50" height="100">
+    <img src="https://github.com/priyankabandekar31/Database-Design-and-Development-for-Fantasy-Football-Manager/blob/main/Images/DataBaseDesign.PNG" width="80" height="100">
     <h1 align="center">Database Design and Development for Fantasy Football Manager</h1>
 
 ## Tools Utilized
